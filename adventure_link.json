@@ -1,0 +1,242 @@
+{
+    "roblox":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.roblox.client", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "GenshinImpact":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "lifeafter":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.xdg.and.eu.lifeafter", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "junes_journey_hidden_object_mystery_game":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=net.wooga.junes_journey_hidden_object_mystery_game", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "firenow":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.dxx.firenow", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "manormatters":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.playrix.manormatters", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "ANMP":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDOHM", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "mrush":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=net.wapsmskey.mrush", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "f2p":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.fivebn.ll8.f2p", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "westland":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.heliogames.westland", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ]
+}

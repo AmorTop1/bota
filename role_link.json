@@ -1,0 +1,242 @@
+{
+    "diablo.immortal":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.blizzard.diablo.immortal", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "raidlegends":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.plarium.raidlegends", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "herowars":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.nexters.herowars", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "lineage2mru":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.ncsoft.lineage2mru", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "heroes.idle.rpg":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.whaleapp.blitz.rise.heroes.idle.rpg.battle", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "mythwarspuzzles":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.karma.mythwarspuzzles", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "dena":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.dena.a12026418", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "cvalhalla.survival.craft":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=valhalla.survival.craft.z", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "lilithgame":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "pwrd.pwmru":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.pwrd.pwmru", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ]
+}

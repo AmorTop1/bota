@@ -1,0 +1,242 @@
+{
+    "solitaire":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=net.supertreat.solitaire", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "wsop.gp":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.playtika.wsop.gp", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "tripeaks":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.gsn.android.tripeaks", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "phase10":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.mattel163.phase10", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "livepoker":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.zynga.livepoker", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "android":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=net.peakgames.mobile.spades.android", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "mtga":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.wizards.mtga", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "spadesroyale":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.bbumgames.spadesroyale", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "card":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.island.card", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "duellinks":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=jp.konami.duellinks", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ]
+}

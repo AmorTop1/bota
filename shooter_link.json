@@ -1,0 +1,242 @@
+{
+    "standoff2":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.axlebolt.standoff2", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "tencent":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.tencent.ig", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "mobile.legends":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.mobile.legends", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "callofduty.shooter":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "brawlstars":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.supercell.brawlstars", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "freefire":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.dts.freefireth", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "pixonic":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.pixonic.wwr", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "battletanksbeta":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "freefiremax":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.dts.freefiremax", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "zombie.survival.craft":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=zombie.survival.craft.z", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ]
+}

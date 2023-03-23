@@ -1,0 +1,242 @@
+{
+    "klondike":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.vizorapps.klondike", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "letsfish2":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.tensquaregames.letsfish2", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "seasons2023":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=progameslab.com.magic.seasons2023.farm.build", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "adventure":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.yourstoryinteractive.sails.pirate.adventure", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "global":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.farmadventure.global", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "cookingdiary":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.mytona.cookingdiary.android", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "goldandgoblins":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.redcell.goldandgoblins", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "ddj":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.phoenix.game.and.ddj", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb ynrBgc xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "ava_rus":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.xp101.ava_rus", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq p5VxAd",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ],
+    "multyplayer":[
+        {
+            "url":"https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer", 
+            "fields":[
+                {
+                    "tag_name":"h1", 
+                    "class_name":"Fd93Bb F5UCq xwcR9d",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div", 
+                    "class_name":"Vbfug auoIOc",
+                    "indexes":[]
+                },
+                {
+                    "tag_name":"div",
+                    "class_name":"ClM7O",
+                    "indexes":[
+                        0, 1
+                    ]
+                }
+            ]
+        }
+    ]
+}
